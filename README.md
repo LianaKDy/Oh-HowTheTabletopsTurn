@@ -1,6 +1,6 @@
-# Oh, How the Tabletops Turn!
+# Oh, How the Tabletops Turn! - A Java and Java Swing Project
 
-**A CPSC 210 Project Proposal by Liana-Khim Dy**
+**A CPSC 210 Project by Liana-Khim Dy**
 
 ## Project Summary:
 
@@ -12,6 +12,7 @@ fail to automatically calculate character health points, resulting in time-consu
 storytelling to TTRPGs, as well as more action and fun gameplay!
 
 ## User Stories
+
 - As a user, I want to be able to add player and enemy characters to my turn-tracker, complete with their character name, amount of health points, and amount of damage they can deal.
 - As a user, I want to be able to view the turn-tracker as a list, with the first player/enemy at the top of the list and the upcoming players/enemies underneath.
 - As a user, on each characters' turn, I want to be able to have a player deal damage to an enemy, resulting in the amount of damage dealt to be taken away from that enemy's health points.
@@ -19,7 +20,7 @@ storytelling to TTRPGs, as well as more action and fun gameplay!
 - As a user, I want to have the option to save the current state of the turn-tracker to file.
 - As a user, I want to have the option to reload the state of the saved turn-tracker from file and resume from where I left off from an earlier time.
 
-## Instructions for Grader
+## Instructions for User
 
 - You can generate the first required action related to the user story "adding multiple Xs to a Y" by clicking on the "Add Player" or "Add Enemy" buttons and filling in the required prompts.
 - You can generate the second required action related to the user story "adding multiple Xs to a Y" by clicking on the "FINISHED button and seeing the list of created characters. Once this has been done, you can click buttons to view the first character's health, damage others, and end their turn.
@@ -27,7 +28,7 @@ storytelling to TTRPGs, as well as more action and fun gameplay!
 - You can save the state of my application by clicking the "SAVE" button in the bottom left corner.
 - You can reload the state of my application by clicking the "LOAD" button in the bottom left corner.
 
-## PHASE 4 TASK 2
+## Printing the Event Log - Event Log Sample
 
 - PRINTING EVENTLOG:
 -------------------
@@ -89,7 +90,7 @@ Saved current Turn Tracker to file.
 Wed Nov 29 12:19:07 PST 2023
 
 
-## PHASE 4 TASK 3
+## Final Words and Summation - Looking to the Future
 
 If I had more time to work on my project, the main thing point of refactoring that I would do to improve my design  is
 to implement better error handling, specifically in terms of my GUI. Currently, when one wants to add a character
