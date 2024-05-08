@@ -99,7 +99,7 @@ application shows error messages and throws null pointer exceptions. As such, I 
 application to be better able to handle and catch these thrown exceptions, then this will improve the design and make 
 the application more robust.
 
-## CITATION
+## CITATIONS
 Parts of code modelled after sample application provided from https://github.students.cs.ubc.ca/CPSC210/JsonSerializationDemo.git
 
 pepe.jpg: https://biches-of-jacksfilms.fandom.com/wiki/Pepe
