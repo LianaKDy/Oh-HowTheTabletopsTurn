@@ -1,0 +1,16 @@
+{
+  "turntracker": [
+    {
+      "type": "Player",
+      "name": "Liana",
+      "hp" : 100,
+      "dmg" : 50
+    },
+    {
+      "type": "Enemy",
+      "name": "EvilLiana",
+      "hp" : 200,
+      "dmg" : 25
+    }
+  ]
+}
